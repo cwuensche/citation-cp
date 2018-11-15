@@ -1,0 +1,31 @@
+.pw_list .li_gray, .bg_gray {
+    background: #f1f2f2;
+}
+
+.pw_list .number {
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.list-group-item div.link {
+    word-wrap: break-word;
+    width: 55%;
+}
+
+.pw_list .list-group-item div.link
+{
+    width: auto;
+}
+
+.pw_list .link {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.list-group-item a {
+    color: #484446;
+}
+.pw_list a {
+ text-decoration: none!important;
+}
